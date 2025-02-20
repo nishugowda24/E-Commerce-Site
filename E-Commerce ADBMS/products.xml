@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Laptop</name>
+        <price>120000.50</price>
+        <description>High-performance laptop with 16GB RAM and 512GB SSD.</description>
+        <image>laptop.jpg</image>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Smartphone</name>
+        <price>80000.00</price>
+        <description>Latest smartphone with 5G support and 128GB storage.</description>
+        <image>smartphone.jpg</image>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Headphones</name>
+        <price>1500.00</price>
+        <description>Wireless headphones with noise-canceling features.</description>
+        <image>headphones.jpg</image>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Smartwatch</name>
+        <price>2000.00</price>
+        <description>Feature-packed smartwatch with fitness tracking.</description>
+        <image>smartwatch.jpg</image>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Camera</name>
+        <price>70000.00</price>
+        <description>DSLR camera with 24MP sensor and 4K video recording.</description>
+        <image>camera.jpg</image>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Bluetooth Speaker</name>
+        <price>990.99</price>
+        <description>Portable Bluetooth speaker with 12-hour battery life.</description>
+        <image>speaker.jpg</image>
+    </product>
+    <product>
+        <id>7</id>
+        <name>Tablet</name>
+        <price>4500.00</price>
+        <description>10-inch tablet with high-resolution display and stylus support.</description>
+        <image>tablet.jpg</image>
+    </product>
+    <product>
+        <id>8</id>
+        <name>Gaming Console</name>
+        <price>5000.00</price>
+        <description>Next-gen gaming console with 4K HDR gaming support.</description>
+        <image>console.jpg</image>
+    </product>
+    <product>
+        <id>9</id>
+        <name>Keyboard</name>
+        <price>600.00</price>
+        <description>Mechanical keyboard with customizable RGB lighting.</description>
+        <image>keyboard.jpg</image>
+    </product>
+    <product>
+        <id>10</id>
+        <name>Monitor</name>
+        <price>3000.00</price>
+        <description>27-inch 144Hz monitor with ultra-slim bezel design.</description>
+        <image>monitor.jpg</image>
+    </product>
+    <product>
+        <id>11</id>
+        <name>External Hard Drive</name>
+        <price>1200.00</price>
+        <description>2TB portable hard drive with USB 3.0 support.</description>
+        <image>harddrive.jpg</image>
+    </product>
+    <product>
+        <id>12</id>
+        <name>Mouse</name>
+        <price>40.00</price>
+        <description>Ergonomic wireless mouse with adjustable DPI.</description>
+        <image>mouse.jpg</image>
+    </product>
